@@ -7,7 +7,6 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... Japanese Security company's development division
 - 🌱 I’m currently learning ... unity, Angular, italian language 
 - 👯 I’m looking to collaborate on ... my products(Logo Asobi, etc)
 - 💬 Ask me about ... football! I'm making tool that makes uniforms for a fictional soccer team now (PowerShell, Blender, unity, etc)
@@ -15,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ... call me Kajim (カジム)
 
 <!-- 
+- 🔭 I’m currently working on ... Japanese Security company's development division
 - ⚡ Fun fact: ... 
 - 🤔 I’m looking for help with ... 
 -->
