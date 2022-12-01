@@ -20,14 +20,15 @@ Here are some ideas to get you started:
 -->
 
 -----
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Massas&layout=compact)](https://github.com/Massas/github-readme-stats)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Massas)](https://github.com/Massas/github-readme-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Massas)](https://github.com/Massas/github-profile-trophy)
+
+-----
 ## My Skills
 [![My Skills](https://skillicons.dev/icons?i=c,powershell,js,linux,cs,bash,angular)](https://skillicons.dev)
 
 and oracle,IBM Db2,sql,csh,ksh 
 
------
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Massas)](https://github.com/Massas/github-readme-stats)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Massas)](https://github.com/Massas/github-profile-trophy)
