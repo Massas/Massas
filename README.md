@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ## My Skills
 [![My Skills](https://skillicons.dev/icons?i=c,powershell,js,linux,cs,bash,angular)](https://skillicons.dev)
 
-and oracle,IBM Db,sql,csh,ksh 
+and oracle,IBM Db2,sql,csh,ksh 
 
 -----
 
