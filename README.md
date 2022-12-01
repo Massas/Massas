@@ -19,6 +19,15 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ... 
 -->
 
+-----
+
+## My Skills
+[![My Skills](https://skillicons.dev/icons?i=c,powershell,js,linux,cs,bash,angular)](https://skillicons.dev)
+
+and oracle,IBM Db,sql,csh,ksh 
+
+-----
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Massas)](https://github.com/Massas/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Massas)](https://github.com/Massas/github-profile-trophy)
