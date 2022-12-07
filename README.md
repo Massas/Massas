@@ -5,8 +5,6 @@
 
 -->
 
-Here are some ideas to get you started:
-
 - 🌱 I’m currently learning ... unity, Angular, italian language 
 - 👯 I’m looking to collaborate on ... my products(Logo Asobi,FootballTeamNameMaker,FootballPlayer-NameMaker etc)
 - 💬 Ask me about ... football! I'm making tool that makes uniforms for a fictional soccer team now (PowerShell, Blender, unity, etc)
